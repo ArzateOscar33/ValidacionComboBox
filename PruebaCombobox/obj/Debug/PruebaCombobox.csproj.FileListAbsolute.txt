@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\obj\Debug\PruebaCombobox.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\obj\Debug\PruebaCombobox.Form1.resources
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\obj\Debug\PruebaCombobox.Properties.Resources.resources
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\obj\Debug\PruebaCombobox.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\obj\Debug\PruebaCombobox.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\bin\Debug\PruebaCombobox.exe.config
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\bin\Debug\PruebaCombobox.exe
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\bin\Debug\PruebaCombobox.pdb
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\obj\Debug\PruebaCombobox.exe
+C:\Users\Admin\source\repos\PruebaCombobox\PruebaCombobox\obj\Debug\PruebaCombobox.pdb
